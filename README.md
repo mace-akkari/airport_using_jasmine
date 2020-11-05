@@ -46,7 +46,9 @@ I want to prevent landing when weather is stormy
 The task is to test drive the creation of a set of classes/modules to satisfy all the above user stories. You will need to use a random number generator to set the weather (it is normally sunny but on rare occasions it may be stormy). In your tests, you'll need to use a stub to override random weather to ensure consistent test behaviour.
 
 
-run using: 
+Run using:
+-----
+
 ```
 open SpecRunner.html
 ```
