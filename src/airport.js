@@ -15,4 +15,8 @@ class Airport{
     this._hangar = [];
   }
 
+  isStormy() {
+    return false;
+  }
+
 };
